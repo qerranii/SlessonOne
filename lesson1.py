@@ -46,7 +46,7 @@ summ = a + b + kfc
 #b = int( input() )  / 3
 # вместо int может быть str or float
 
-#print(a + b) 25
+#print(a + b) 5
 
 # логические операции
     # + - сложение
