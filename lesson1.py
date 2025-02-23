@@ -35,17 +35,18 @@ summ = a + b + kfc
 # ввод в консоль
     # input - ввод в консоль
 
-#a = input()
-#b = input()
+#a = input() / 2
+#b = input() / 3
 
-#print(a + b)
+#print(a + b) 23
 
     # input возвращает строки
 
-#a = int( input() )
-#b = int( input() ) # вместо int может быть str or float
+#a = int( input() ) / 2
+#b = int( input() )  / 3
+# вместо int может быть str or float
 
-#print(a + b)
+#print(a + b) 25
 
 # логические операции
     # + - сложение
@@ -72,3 +73,4 @@ summ = a + b + kfc
 #    print("нечёт")
 #else:
 #    print('хуй')
+
